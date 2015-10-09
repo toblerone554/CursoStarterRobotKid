@@ -8,7 +8,7 @@
 
 ![](/img/img1.png)
 
-* Qu2 vamos a aprender
+* Que vamos a aprender
 
 ![](/img/img2.png)
 
