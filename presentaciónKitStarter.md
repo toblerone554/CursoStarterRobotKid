@@ -14,7 +14,7 @@
 
 * Que vamos a aprender
 
-![](img/img3.jpg)
+![](/img/img3.jpg)
 
 * Otros proyectos
 
