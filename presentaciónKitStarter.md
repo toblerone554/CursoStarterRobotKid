@@ -6,30 +6,30 @@
 
 * Introducción
 
-![](/img/img1.png)
+![](/img/img1.jpg)
 
 * Que vamos a aprender
 
-![](/img/img2.png)
+![](/img/img2.jpg)
 
 * Que vamos a aprender
 
-![](img/img3.png)
+![](img/img3.jpg)
 
 * Otros proyectos
 
-![](/img/img4.png)
+![](/img/img4.jpg)
 
-![](/img/img5.png)
+![](/img/img5.jpg)
 
-![](/img/img6.png)
+![](/img/img6.jpg)
 
 * ¿Qué vamos a usar?
 
 
 # Starter Robot Kit
 
-![](/img/img7.png)
+![](/img/img7.jpg)
 
 * Compuesto de una estructura resistente de aluminio y un controlador Makeblock Orion basado
 en Arduino UNO, un sensor de ultrasonidos para que esquives obstáculos, y todas las 
@@ -40,12 +40,12 @@ de Makeblock y kits de extensión.
 
 * No requiere ningún conocimiento de electrónica
 
-![](/img/img8.png)
+![](/img/img8.jpg)
 
 
 # Ardublock
 
-![](/img/img9.png)
+![](/img/img9.jpg)
 
 
 # ¿Qué es Makeblock?
@@ -79,7 +79,7 @@ numerosos ejemplos con su código fuente para que te resulte más sencillo aún.
 esquemas, planos, firmware y todo lo que necesites customizar será publicado con 
 esa misma licencia.
 
-![](/img/img10.png)
+![](/img/img10.jpg)
 
 
 # Conexiones flexibles
@@ -87,7 +87,7 @@ esa misma licencia.
 * Conectar partes entre sí resulta realmente sencillo y rápido: sus vigas roscadas te
 permiten atornillar cualquier otra pieza a lo largo de la viga sin necesidad de usar tuercas.
 
-![](/img/img11.png)
+![](/img/img11.jpg)
 
 
 # La rueda multifunción
@@ -95,7 +95,7 @@ permiten atornillar cualquier otra pieza a lo largo de la viga sin necesidad de 
 *Una rueda de transmisión puede usarse también como rueda de coche o rueda de
 tanque.
 
-![](/img/img12.png)
+![](/img/img12.jpg)
 
 
 # Rueda de tanque
@@ -103,7 +103,7 @@ tanque.
 * Las ruedas de tanque se ensamblan eslabón a eslabón, por lo que podrás hacerla 
 todo lo grande que necesites.
 
-![](/img/img13.png)
+![](/img/img13.jpg)
 
 
 # Compatible con Lego
@@ -111,7 +111,7 @@ todo lo grande que necesites.
 * La distancia básica de los agujeros en Makeblock es la misma que la de Lego, por lo
 que podrás unir tus piezas de Lego con suma facilidad.
 
-![](/img/img14.png)
+![](/img/img14.jpg)
 
 # Movimiento lineal
 
@@ -119,7 +119,7 @@ que podrás unir tus piezas de Lego con suma facilidad.
 deslizantes te permiten amplias posibilidades de construcción de movimientos líneales
 controlados por ruedas y correas de distribución.
 
-![](/img/img15.png)
+![](/img/img15.jpg)
 
 
 # Motores
@@ -128,7 +128,7 @@ controlados por ruedas y correas de distribución.
 motores para tus diseños; motores DC,
 motores paso a paso, servos... etc...
 
-![](img/img16.png)
+![](img/img16.jpg)
 
 
 # Cableados sencillos
@@ -136,16 +136,16 @@ motores paso a paso, servos... etc...
 * No te hará falta soldar cables o usar placas de prototipado, porque todas las
 conexiones ahora son plug and play mediante conectores RJ25 y códigos de colores.
 
-![](/img/img17.png)
+![](/img/img17.jpg)
 
 
 # Compatible con Arduino
 
 * Todos los módulos electrónicos son compatibles con la plataforma opensource Arduino.
 
-![](/img/img18.png)
+![](/img/img18.jpg)
 
-![](/img/img19.png)
+![](/img/img19.jpg)
 
 
 # Ardublock: Herramienta gráfica de Arduino para Makeblock
@@ -157,8 +157,8 @@ acciones de tu programa.
 
 # Ardublock
 
-![](/img/img20.png)
+![](/img/img20.jpg)
 
 
-![](/img/img21.png)
+![](/img/img21.jpg)
 
