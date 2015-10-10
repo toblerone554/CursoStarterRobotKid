@@ -155,10 +155,9 @@ conexiones ahora son plug and play mediante conectores RJ25 y códigos de colore
 ellos como si fueran piezas de un puzzle para confeccionar el flujo de 
 acciones de tu programa.
 
-# Ardublock
-
 ![](/img/img20.jpg)
 
+# Gracias  
 
 ![](/img/img21.jpg)
 
